@@ -29,3 +29,5 @@
 
 * 1 -5 章初步读完
 * 相关公式及其算法的实现细节未完成
+
+## Programming Collective Intelligence ##
